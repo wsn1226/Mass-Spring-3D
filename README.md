@@ -7,4 +7,4 @@
 
 
 ## Acknowledgement
-This is an implementation of the [1st assignment](https://github.com/dilevin/CSC417-a1-mass-spring-1d) of CSC 417 from Prof. David I.W. Levin.
+This is an implementation of the [2nd assignment](https://github.com/dilevin/CSC417-a2-mass-spring-3d) of CSC 417 from Prof. David I.W. Levin.
